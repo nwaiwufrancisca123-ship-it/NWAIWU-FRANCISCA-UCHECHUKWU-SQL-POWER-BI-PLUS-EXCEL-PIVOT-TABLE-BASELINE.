@@ -22,7 +22,7 @@ A full data analysis audit of Global Superstore's transactional sales data (~51,
 
 ## 🔗 Live Interactive Versions
 - [Power BI Dashboard (Publish to Web)](#) — filters and slicers fully interactive
-- [Excel Workbook (OneDrive/Google Sheets)](#) — live, scrollable PivotTables
+- [Excel Workbook (OneDrive/Google Sheets)](https://1drv.ms/x/c/aa90d8e67ed60075/IQBUHsZ4mjAhRoq9vEJf_X0LAbOySdQHFx4fA95E_YC72hA) — live, scrollable PivotTables
 
 ---
 
